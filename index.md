@@ -19,10 +19,13 @@ Contract Bridge is the ultimate partnership card game, where 4 players are dealt
 
 # Meeting Location
 **Every Monday 2:45PM-3:45PM**
+
 **Classroom: N215**
 
 # Contacts:
 **Phone #: 4798667574**
+
 **Email: 421235@bsd48.org**
+
 **Discord: PoarthanArseus#8563**
 
