@@ -1,3 +1,3 @@
-## [Home](./index.html) | [Blog](./blog.html)
+## [Home](./index.html) | [Play Bridge](./play.html) | [Blog](./blog.html)
 
 # Goal
