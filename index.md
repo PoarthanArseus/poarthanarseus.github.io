@@ -11,8 +11,6 @@ Bridge is the ultimate partnership card game, where 4 players are dealt a deck a
 # Resources:
 * [How to Play Bridge in 5 minutes](https://www.youtube.com/watch?v=Arq3t0iHfPE)
 * [Bridge Ted Talk](https://www.ted.com/talks/sunil_varghese_bridge_the_ultimate_mind_game)
-* [FunBridge](https://www.funbridge.com/)
-* [BridgeBaseOnline](https://www.bridgebase.com/v3/)
 * [Club Sign Up Form](https://forms.gle/wTz2qe4XVz2j26Aa6)
 * [Club Discord Server](https://discord.gg/Wnnw7rhwpJ)
 
