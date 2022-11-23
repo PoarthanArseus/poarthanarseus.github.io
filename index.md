@@ -14,7 +14,7 @@ Bridge is the ultimate partnership card game, where 4 players are dealt a deck a
 * [Club Discord Server](https://discord.gg/Wnnw7rhwpJ)
 
 
-# Meeting Location-Next meeting is on Monday 11/21/2022
+# Meeting Location-Next meeting is on Monday 12/5/2022
 **Every Monday 2:45PM-3:45PM**
 
 **Classroom: N215**
