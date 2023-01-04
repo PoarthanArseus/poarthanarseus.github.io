@@ -2,18 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://westviewbridgeclub.online/test2/</loc>
-    <priority>0</priority>
+    <loc>https://poarthanarseus.github.io/posts/second-post/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://westviewbridgeclub.online/test3/</loc>
-    <priority>0</priority>
+    <loc>https://poarthanarseus.github.io/posts/first-post/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://westviewbridgeclub.online/categories/</loc>
+    <loc>https://poarthanarseus.github.io/bridge-rules/</loc>
   </url><url>
-    <loc>https://westviewbridgeclub.online/tags/</loc>
+    <loc>https://poarthanarseus.github.io/categories/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://westviewbridgeclub.online/</loc>
+    <loc>https://poarthanarseus.github.io/categories/club-meet/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://westviewbridgeclub.online/test/</loc>
+    <loc>https://poarthanarseus.github.io/posts/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://poarthanarseus.github.io/categories/tournaments/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://poarthanarseus.github.io/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://poarthanarseus.github.io/about/</loc>
+  </url><url>
+    <loc>https://poarthanarseus.github.io/categories/learning-bridge/</loc>
+  </url><url>
+    <loc>https://poarthanarseus.github.io/tags/</loc>
   </url>
 </urlset>
