@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Westview Bridge Club</title>
-    <link>https://westviewbridgeclub.online/posts/</link>
+    <link>https://poarthanarseus.github.io/posts/</link>
     <description>Recent content in Posts on Westview Bridge Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://westviewbridgeclub.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://poarthanarseus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Tournament</title>
-      <link>https://westviewbridgeclub.online/posts/second-post/</link>
+      <link>https://poarthanarseus.github.io/posts/second-post/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://westviewbridgeclub.online/posts/second-post/</guid>
+      <guid>https://poarthanarseus.github.io/posts/second-post/</guid>
       <description>This is our clubs first ever Bridge Tournament</description>
     </item>
     
     <item>
       <title>Bridge the most complex game in the world</title>
-      <link>https://westviewbridgeclub.online/posts/first-post/</link>
+      <link>https://poarthanarseus.github.io/posts/first-post/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://westviewbridgeclub.online/posts/first-post/</guid>
+      <guid>https://poarthanarseus.github.io/posts/first-post/</guid>
       <description>Hello and welcome to our Bridge club! As a member of the club, I have to say that playing Bridge is an absolute blast. It&amp;rsquo;s a game that&amp;rsquo;s fun, challenging, and rewarding, and there&amp;rsquo;s always something new to learn and enjoy.</description>
     </item>
     
