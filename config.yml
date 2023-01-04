@@ -2,6 +2,7 @@ baseURL: "https://poarthanarseus.github.io/"
 title: Westview Bridge Club
 paginate: 5
 theme: PaperMod
+publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
