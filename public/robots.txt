@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://westviewbridgeclub.online/sitemap.xml

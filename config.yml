@@ -1,0 +1,142 @@
+baseURL: "https://westviewbridgeclub.online/"
+title: Westview Bridge Club
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Westview Bridge Club
+  description: "Westview Bridge Club description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Arnold
+  # author: ["Me", "You"] # multiple authors
+  #DateFormat: "November 11th, 2022"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Westview Bridge Club"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "\U00002663 \U00002662 Westview Bridge Club \U00002661 \U00002660"
+    Content: Contract Bridge is the ultimate partnership card game, where 4 players are dealt a deck a 52 cards equally. With only the information about their partners and opponents cards communicated through "bidding" on the trump suit at the start of the game, contract bridge is an ultimate strategic game, requiring cooperation, skill, calculation, and unlimited possibilities. It is one of the few games where the best AI are still worse than the best humans and the game has featured many regular playing celebrities like Bill Gates, Warren Buffet and astronaut Greg "Box" Johnson. 
+
+  socialIcons:
+    - name: discord
+      url: "https://discord.gg/Wnnw7rhwpJ"
+    - name: email
+      url: "mailto:arnold.tianyi.yang@gmail.com"
+    - name: Signup Forms
+      url: "https://docs.google.com/forms/d/e/1FAIpQLScOJSJKP9f-yOLxpUv7e3iwQ4V8V7P15oaALK2KxESDwtrmKg/viewform"
+    # - name: github
+      # url: "https://github.com/Poarthan"
+     
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
+    # bing:
+      # SiteVerificationTag: "XYZabc"
+    # yandex:
+      # SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # editPost:
+    # URL: "https://github.com/<path_to_repo>/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: How to Play Bridge
+      name: How to Play Bridge
+      url: /bridge-rules/
+      weight: 10
+    - identifier: Categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
