@@ -1,5 +1,4 @@
 ---
-image: "/uploads/12-12-2022-bridge-club.jpg"
 title: "Bridge the most complex game in the world"
 date: 2022-12-12
 Author: "Arnold Yang"
@@ -19,4 +18,4 @@ One of the best things about our club is that we have players of all skill level
 As a more experienced player, I've had the opportunity to teach the game to some of our newer members. It's been really rewarding to see them progress and improve, and it's always fun to share my love of the game with others.
 
 It's a game that will challenge and entertain you for hours on end. If you're interested, we invite you to come and join us as we delve into the complex world of Bridge, a game that can be played with just a single deck of cards.
-	
+
