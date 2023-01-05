@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Miscellaneous on Westview Bridge Club</title>
+    <link>https://poarthanarseus.github.io/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on Westview Bridge Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://poarthanarseus.github.io/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Funbridge Deal Autocollection</title>
+      <link>https://poarthanarseus.github.io/posts/funbridge-deal-autocollection/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://poarthanarseus.github.io/posts/funbridge-deal-autocollection/</guid>
+      <description>This is a tutorial on how to use the funbridge autocollection bot to autocollect daily deals on Windows and Ubuntu Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
