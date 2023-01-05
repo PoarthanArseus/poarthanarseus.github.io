@@ -10,7 +10,7 @@ disableScrollToTop: False
 ---
 
 ## Getting Started	
-This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning playing, then bidding and finally if you are really up for it scoring. Scoring is complex and the rules for it change beteween different variants of bridge, so the best way to do scoring is to just use the [score sheet](https://westviewbridgeclub.online/bridge-rules/#bridge-scoresheet).
+This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning playing, then bidding and finally if you are really up for it scoring. Scoring is complex and the rules for it change beteween different variants of bridge, so the best way to do scoring is to just use the [score sheet](https://poarthanarseus.github.io/bridge-rules/#bridge-scoresheet).
 
 ### Materials
 -	4 Players
@@ -27,7 +27,7 @@ One recommendation is that it may generally be easier to learn how the playing p
 ## Part 1: Bidding
 The goal of the bidding phase is to nominate a contract that the team who called the bid will play. During the entire bidding phase of the game, partners and opposing teams are not allowed to communicate through any means verbally or nonverbally other than through their bids.
 
-A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://westviewbridgeclub.online/bridge-rules/#trumpingruffing). 
+A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://poarthanarseus.github.io/bridge-rules/#trumpingruffing). 
 -	The number represents the number of tricks that plus six(because 13/2 rounds down to 6) that the bidder thinks they and their partner can win. 
 -	The suit bid can be clubs(:clubs:), diamonds(:diamonds:), hearts(:hearts:), spades(:spades:), or no trump(**NT**). The suit bid will be the trump suit which will make it better than other suits during the playing phase. No trump means that there are no trump suits.
 
@@ -40,11 +40,11 @@ Bidding starts from the dealer, who makes the first bid and subsequent bids are 
 ![FunBridge Bidding](/uploads/funbridge-bidding-removebg-preview.png)
 Generally in Bridge, bidding the highest and most precise contract a team can win will award that partnership the most points. If a player thinks that the opposing team has bid an unmakably high contract they can bid a double, this will be counted as another bid and will require another 3 passes to end the bidding. A double will double the amount of points won or lost by the declaring team. In rare cases, if the bidding team is confident that they can make the contract they can redouble the contract, therefore in all quadrupling the amount of points won or lost.
 
-Biding is a complex process, when you must guess with only knowledge of your own cards and everybody's bids what everybody's hands(a hand is all the cards that have been dealt to you) look like. For more information look at bidding systems in [resources](https://westviewbridgeclub.online/bridgerules/#playing-materials-and-learning-resources).
+Biding is a complex process, when you must guess with only knowledge of your own cards and everybody's bids what everybody's hands(a hand is all the cards that have been dealt to you) look like. For more information look at bidding systems in [resources](https://poarthanarseus.github.io/bridgerules/#playing-materials-and-learning-resources).
 
 ---
 ## Part 2: Playing
-After a contract is decided upon, play starts with the player sitting one spot clockwise of the [declarer](https://westviewbridgeclub.online/bridgerules/#winning-bid). For instance if North wins the bid then East begins play.
+After a contract is decided upon, play starts with the player sitting one spot clockwise of the [declarer](https://poarthanarseus.github.io/bridgerules/#winning-bid). For instance if North wins the bid then East begins play.
 
 The first card played is called "opening lead" and is conventionally played faced down.
 
