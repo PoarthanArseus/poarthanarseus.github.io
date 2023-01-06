@@ -1,10 +1,10 @@
 ---
 title: "Funbridge Deal Autocollection"
-date: 2022-12-12
+date: 2022-01-05
 Author: "Arnold Yang"
 categories: ["Miscellaneous"]
 summary: "This is a tutorial on how to use the funbridge autocollection bot to autocollect daily deals on Windows and Ubuntu Linux."
-weight: -3
+weight: -5
 ShowCodeCopyButtons: True
 ShowPostNavLinks: True
 ---
@@ -13,7 +13,7 @@ ShowPostNavLinks: True
 
 ## Materials
 First, you will need to have git, python and selenium.
-### Ubuntu 
+### Ubuntu
 ```
 sudo apt install python3
 sudo apt install git
@@ -27,12 +27,17 @@ You can download git from [https://git-scm.com/download/win](https://git-scm.com
 To install selenium, you can just open Powershell and run:
 `pip install selenium`
 
-For selenium you will also need to user the correct web driver from [https://www.selenium.dev/documentation/webdriver/getting\_started/install\_drivers/](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
+For both Windows and Ubuntu you will also need to user the correct web driver for selenium to run, you can find install instructions here: [https://www.selenium.dev/documentation/webdriver/getting\_started/install\_drivers/](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
 
-The script by default uses Chrome, but if you want to use something else edit the driver variable on line 7. 
+The script by default uses Chrome, but if you want to use something else edit the driver variable on line 7.
+
+After installing, git you can clone the script from this repo: [https://github.com/Poarthan/funbridge-autocollect-deals](https://github.com/Poarthan/funbridge-autocollect-deals)
+```
+git clone https://github.com/Poarthan/funbridge-autocollect-deals
+```
 
 ## Editing the script
-The last thing you need to do before running it, is editing the script to put your username and password in the spots at the bottom where it says: `your_username_or_email` and `your_password`. The script was designed for multiple funbridge accounts, therefore, it has an extra redundancy built in. 
+The last thing you need to do before running it, is editing the script to put your username and password in the spots at the bottom where it says: `your_username_or_email` and `your_password`. The script was designed for multiple funbridge accounts, therefore, it has an extra redundancy built in.
 
 Then you should be able to run the script with:
 ```
@@ -61,12 +66,12 @@ Then add the line below to the bottom of the file, if you don't know where your 
 This will run your script 3 times and at 3AM, 4AM and 5AM, this is because every time the collection happens it will have to be a little over 24 hours since the last one, and currently there is no good way to do that other than adding to the script which may happen later, but for now it will just run the script 3 times every day, so it may miss out a day every week. You can edit this configuration to run more often so that it guarantees daily deal collection.
 
 ### Windows Task Scheduler
-From my experience it is best to use a .bat file to run this script so 
+From my experience it is best to use a .bat file to run this script so
 ```
 C:\path-to-python\python.exe C:\path-to-funbridge-autocollect-deals\funbridge-autocollect-deals\collection.py
 ```
 
-Then open task scheduler, set triggers to run daily at a time you want every day like 3AM, in advanced settings put repeat task every 5 minutes for 30 minutes, and enable stop all running tasks at the end of duration. Set actions to run the batch file, so just type the path of the batch file, should look something like this `C:\path-batch-file\some-name.bat`. These settings will allow it to run daily, and repeat a few times to have the problem of having to collect deals a little after 24 hours be less impactful. about every 13 or 14 days will this miss out on a day. 
+Then open task scheduler, set triggers to run daily at a time you want every day like 3AM, in advanced settings put repeat task every 5 minutes for 30 minutes, and enable stop all running tasks at the end of duration. Set actions to run the batch file, so just type the path of the batch file, should look something like this `C:\path-batch-file\some-name.bat`. These settings will allow it to run daily, and repeat a few times to have the problem of having to collect deals a little after 24 hours be less impactful. about every 13 or 14 days will this miss out on a day.
 
 ![Task Scheduler Daily Trigger](/uploads/task-scheduler-trigger.jpg)
 

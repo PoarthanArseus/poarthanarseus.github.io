@@ -17,6 +17,10 @@ Club President: Arnold Yang
 Club Vice President: Chris Willard
 
 ---
+### Meeting Information:
+Every Monday 2:35-3:45 at classrom N215
+
+---
 ### Contacts:
 Phone #: 4798667574\
 Email: arnold.tianyi.yang@gmail.com\
