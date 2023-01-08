@@ -19,7 +19,7 @@ This is a tutorial on how to get started playing bridge on a casual level. We re
 
 Bridge is a card game played with 4 players divided into 2 teams of 2 called pairs/partners. Each side of the table is marked by North, East, South or West. Players in a partnership sit across from each other in a North-South and East-West teams. The game consists of 2 main parts: bidding and card play, described below.
 
-Generally the game starts with whoever is sitting in the North end and they will shuffle and deal the deck of cards equally among the 4 players(13 cards each. After dealing out the cards, the dealer will begin the first phase of the game: bidding. The dealer rotates 1 player clockwise between deals. Each full round of play after dealing, bidding and playing all the cards is called a deal. The playing phase of the deal consists of 13 tricks which represent the 13 rounds of card play where each person plays a card on their turn.
+Generally the game starts with whoever is sitting in the North end and they will shuffle and deal the deck of cards equally among the 4 players(13 cards each). After dealing out the cards, the dealer will begin the first phase of the game: bidding. The dealer rotates 1 player clockwise between deals. Each full round of play after dealing, bidding and playing all the cards is called a deal. The playing phase of the deal consists of 13 tricks which represent the 13 rounds of card play where each person plays a card on their turn.
 
 One recommendation is that it may generally be easier to learn how the playing phase of Bridge works before going back and learning the bidding phase.
 

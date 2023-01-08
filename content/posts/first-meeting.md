@@ -1,9 +1,9 @@
 ---
-title: "Bridge the most complex game in the world"
+title: "First Meeting Blog-Learning Bridge"
 date: 2022-12-12
 Author: "Arnold Yang"
 categories: ["Club Meet"]
-summary: "Hello and welcome to our Bridge club! As a member of the club, I have to say that playing Bridge is an absolute blast. It's a game that's fun, challenging, and rewarding, and there's always something new to learn and enjoy."
+summary: "Hello and welcome to our Bridge club! This is our first blog of a bridge club meeting."
 weight: -1
 ShowPostNavLinks: True
 ---
@@ -17,5 +17,4 @@ One of the best things about our club is that we have players of all skill level
 
 As a more experienced player, I've had the opportunity to teach the game to some of our newer members. It's been really rewarding to see them progress and improve, and it's always fun to share my love of the game with others.
 
-It's a game that will challenge and entertain you for hours on end. If you're interested, we invite you to come and join us as we delve into the complex world of Bridge, a game that can be played with just a single deck of cards.
-
+Today we were able to get a full table of 4, this is Kishore's first meeting and we taught him how to play and we also all did some more learning on the SAYC bidding system. We were able to get a few deals in and they were a lot of fun. We will be scheduling a tournament in over the break.

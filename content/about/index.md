@@ -19,9 +19,9 @@ Club Vice President: Chris Willard
 ---
 ### Meeting Information:
 Every Monday 2:35-3:45 at classrom N215
+Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
 
 ---
 ### Contacts:
-Phone #: 4798667574\
 Email: arnold.tianyi.yang@gmail.com\
 Discord: PoarthanArseus#8563
