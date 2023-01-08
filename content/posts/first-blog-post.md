@@ -17,4 +17,4 @@ One of the best things about our club is that we have players of all skill level
 
 As a more experienced player, I've had the opportunity to teach the game to some of our newer members. It's been really rewarding to see them progress and improve, and it's always fun to share my love of the game with others.
 
-Today we were able to get a full table of 4, this is Kishore's first meeting and we taught him how to play and we also all did some more learning on the SAYC bidding system. We were able to get a few deals in and they were a lot of fun. We will be scheduling a tournament in over the break.
+Today we were able to get a full table of 4, this is Kishore's first meeting and we taught him how to play and we also all did some more learning on the SAYC bidding system. We were able to get a few deals in and they were a lot of fun. We will be scheduling a tournament over the break. Overall, it was a successful and enjoyable day at the Bridge club, hope everyone has a wonderful Winter Break
