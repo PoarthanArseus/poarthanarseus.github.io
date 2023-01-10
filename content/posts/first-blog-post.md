@@ -1,5 +1,5 @@
 ---
-title: "First Meeting Blog-Learning Bridge"
+title: "First Blog Post-12/12/2022 Meeting"
 date: 2022-12-12
 Author: "Arnold Yang"
 categories: ["Club Meet"]

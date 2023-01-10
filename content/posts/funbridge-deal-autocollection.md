@@ -1,6 +1,6 @@
 ---
 title: "Funbridge Deal Autocollection"
-date: 2022-01-05
+date: 2023-01-05
 Author: "Arnold Yang"
 categories: ["Miscellaneous"]
 summary: "This is a tutorial on how to use the funbridge autocollection bot to autocollect daily deals on Windows and Ubuntu Linux."
