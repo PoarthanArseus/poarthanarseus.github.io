@@ -39,16 +39,18 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "/uploads/playing-cards.ico"
+  favicon16x16 = "/uploads/playing-cards.ico"
+  favicon32x32 = "/uploads/playing-cards.ico"
+  apple_touch_icon = "/uploads/playing-cards.ico"
+  safari_pinned_tab = "/uploads/playing-cards.ico"
 
   [params.label]
   text = "Westview Bridge Club"
-  icon = "/apple-touch-icon.png"
-  iconHeight = 35
+  icon = "/uploads/playing-cards.ico"
+  iconHeight = 35                 
+  #icon = "/apple-touch-icon.png"
+  #iconHeight = 35
 
   [params.profileMode]
   enabled = false
@@ -114,6 +116,12 @@ identifier = "About"
 name = "About"
 url = "/about/"
 weight = 30
+
+[[menu.main]]
+identifier = "Upcoming Events"
+name = "Upcoming Events"
+url = "/events/"
+weight = 40
 
 [markup]
 unsafe = true

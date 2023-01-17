@@ -68,12 +68,20 @@ Materials 4 Players Standard 52 Deck of Playing Cards Paper and Pencil(for scori
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://poarthanarseus.github.io/about/</guid>
-      <description>Welcome to the site of the Westview Bridge Club, our goal is to help seniors is to help the mental wellbeings of seniors and connect the younger and older generations. We organize community events with Senior Living Centers and are available for contact below.
-Club President: Arnold Yang
-Club Vice President: Chris Willard
-Meeting Information: Every Monday 2:35-3:45 at classrom N215 Club Discord Server: https://discord.com/invite/Wnnw7rhwpJ
-Contacts: Email: arnold.tianyi.yang@gmail.com
-Discord: PoarthanArseus#8563</description>
+      <description>Welcome to the site of the Westview Bridge Club, our goal is to help seniors is to help the mental wellbeings of seniors and connect the younger and older generations, through fun mental activities like bridge. We are partnering with the Westview and Titanturtles Cybersecurity club, to help prevent the elder generation from being exploited. We organize community events with Senior Living Centers and are available for contact below.
+Club President: Arnold Yang</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://poarthanarseus.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poarthanarseus.github.io/events/</guid>
+      <description>Meeting: Monday, 1/23/2023, 2:35-3:45PM at room S210
+Community Events: Avamere at Hillsboro Event: Date and Time: Friday, February 3rd (NO SCHOOL), from 1:30 PM - 4:00 PM Location: 2000 SE 30th Ave, Hillsboro, OR 97123.
+Laurel Parc at Bethany Village Event: Date and time: Sunday, February 5th, from 1PM-3PM Location: 15850 NW Central Dr Portland, OR 97229
+Contact me if you are interested in participating in the community event at: https://westviewbridgeclub.</description>
     </item>
     
   </channel>
