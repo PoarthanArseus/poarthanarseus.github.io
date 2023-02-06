@@ -9,7 +9,7 @@ searchHidden: True
 disableScrollToTop: False
 ---
 
-## Getting Started	
+## Getting Started
 This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to do scoring is to just use the [score sheet](https://poarthanarseus.github.io/bridge-rules/#bridge-scoresheet).
 
 ### Materials
@@ -21,14 +21,14 @@ Bridge is a card game played with 4 players divided into 2 teams of 2 called pai
 
 Generally, the game starts with whoever is sitting in the North end and they will shuffle and deal the deck of cards equally among the 4 players(13 cards each). After dealing out the cards, the dealer will begin the first phase of the game: bidding. The dealer rotates 1 player clockwise between deals. Each full round of play after dealing, bidding, and playing all the cards is called a deal. The playing phase of the deal consists of 13 tricks which represent the 13 rounds of card play where each person plays a card on their turn.
 
-One recommendation is that it may generally be easier to learn how the playing phase of Bridge works before going back and learning the bidding phase. 
+One recommendation is that it may generally be easier to learn how the playing phase of Bridge works before going back and learning the bidding phase.
 
 ---
 ## Part 1: Bidding
 The goal of the bidding phase is to nominate a contract that the team who called the bid will play. During the entire bidding phase of the game, partners and opposing teams are not allowed to communicate through any means verbally or nonverbally other than through their bids.
 
-A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://poarthanarseus.github.io/bridge-rules/#trumpingruffing). 
--	The number represents the number of tricks plus six(because 13/2 rounds down to 6) that the bidder thinks they and their partner can win. 
+A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://poarthanarseus.github.io/bridge-rules/#trumpingruffing).
+-	The number represents the number of tricks plus six(because 13/2 rounds down to 6) that the bidder thinks they and their partner can win.
 -	The suit bid can be clubs(:clubs:), diamonds(:diamonds:), hearts(:hearts:), spades(:spades:), or no trump(**NT**). The suit bid will be the trump suit which will make it better than other suits during the playing phase. No trump means that there are no trump suits.
 
 ### Winning Bid
@@ -50,11 +50,11 @@ The first card played is called "opening lead" and is conventionally played face
 
 In bridge the partner of the declarer is called the "dummy" which stands for silent in French. The dummy will place their hand face up on the table for everyone to see and every card the dummy plays will be decided by the declarer.
 
-The play will continue in a clockwise order with each person playing a card that matches the suit of the first card played if they have a card in that suit. 
+The play will continue in a clockwise order with each person playing a card that matches the suit of the first card played if they have a card in that suit.
 Card strength from weakest to strongest in the same suit is 2,3,4,5,6,7,8,9,10,J,Q,K,A
 
 ### Trumping/Ruffing
-If a suit is played and a player **does not** have a card in that suit, then the player could play any card in his hand. Usually, if they play a card of a different suit, that card will be thrown, however, if the card played is of the trump suit, then this is called a ruff and a card in the trump suit will be stronger than a card in any other suit. 
+If a suit is played and a player **does not** have a card in that suit, then the player could play any card in his hand. Usually, if they play a card of a different suit, that card will be thrown, however, if the card played is of the trump suit, then this is called a ruff and a card in the trump suit will be stronger than a card in any other suit.
 
 ### End of deal
 It is conventional that at the end of each trick, cards will be flipped over in a pile in front of each player and faced toward the partnership that won. for example, if the North-South partnership won it will be faced as seen in the diagram:
@@ -88,7 +88,7 @@ The most important part of scoring to know is understanding the bonuses(especial
 Part-score bonus is where the final contract by tricks would normally score less than 100 points, in this case, a 50-point bonus is awarded for making a small contract. For example, making a contract in 1:clubs: would only grant 20 points according to trick points, however, after the part-score bonus there will be a 70-point total.
 
 **Overtrick Bonus**\
-Overtricks are the extra tricks made in surplus of the required amount for the contracts, these tricks will only add 20 or 30 points to the final score. 
+Overtricks are the extra tricks made in surplus of the required amount for the contracts, these tricks will only add 20 or 30 points to the final score.
 
 **Game Bonus**\
 The game bonus is added when the final contract by tricks scores 100 or more points, then the non-vulnerable side receives a 300-point bonus and the vulnerable side receives a 500-point bonus instead of a part-score bonus.
@@ -98,18 +98,18 @@ The game bonus is added when the final contract by tricks scores 100 or more poi
 -	Grand Slam: Grand slam is when all 13 tricks are taken and a 1000 or 1500 point bonus is applied, based on non-vulnerable and vulnerable respectively.
 
 ### Doubling and Redoubling
-These will apply a weighted point bonus to the trick points if the declaring team makes the contract and if they fail it will apply a heavy penalty to the final points. 
+These will apply a weighted point bonus to the trick points if the declaring team makes the contract and if they fail it will apply a heavy penalty to the final points.
 
 ### Undertricks and Penalties
 If the declaring team fails to make the number of tricks they nominated in their bid, then the contract fails, and for each extra trick below the nominated number of tricks, penalty points will be awarded to the opposing team. This can be seen in the undertrick section of the score sheet:
 
 ### Bridge Scoresheet
-Print the scoresheet: [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf)
-![FunBridge Bidding](/uploads/Bridge-scorecard-part1.jpg)
+Access and print the scoring cheatsheet from ACBL: [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf)
 
 ---
 ## Playing Materials and Learning Resources
 -	[FunBridge Scoring tool](https://www.funbridge.com/counting-bridge)
+-	[Play Bridge Online Immediately](https://www.bridgebase.com/client/web0.php)
 -	[Funbridge Learn](https://play.funbridge.com/learn)
 -	[FunBridge Practice](https://play.funbridge.com/t/practice)
 -	[BridgeBase Practice](https://www.bridgebase.com/v3/)
