@@ -13,7 +13,7 @@ ShowBreadCrumbs: false
 ---
 
 ## Meeting:
-Monday, 2/06/2023, 2:35-3:45PM at room N215
+Monday, 2/13/2023, 2:35-3:45PM at room N215
 
 ## Community Events:
 ### Avamere at Hillsboro Event:
