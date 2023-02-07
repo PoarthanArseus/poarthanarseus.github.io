@@ -102,9 +102,15 @@ These will apply a weighted point bonus to the trick points if the declaring tea
 
 ### Undertricks and Penalties
 If the declaring team fails to make the number of tricks they nominated in their bid, then the contract fails, and for each extra trick below the nominated number of tricks, penalty points will be awarded to the opposing team. This can be seen in the undertrick section of the score sheet:
+![Undertricks image](/uploads/undertricks.jpg)
 
 ### Bridge Scoresheet
 Access and print the scoring cheatsheet from ACBL: [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf)
+
+### Bridge CheatSheet
+This is a cheatsheet we created for those learning Bridge:
+![Westview Bridge Cheatsheet](/uploads/half-cheatsheet-westview-bridge.jpg)
+The pdf is linked here: [https://westviewbridgeclub.online/uploads/westview-bridge-cheat-sheet.pdf](https://poarthanarseus.github.io/uploads/westview-bridge-cheat-sheet.pdf)
 
 ---
 ## Playing Materials and Learning Resources
