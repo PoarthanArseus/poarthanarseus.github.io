@@ -10,7 +10,7 @@ disableScrollToTop: False
 ---
 
 ## Getting Started
-This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to do scoring is to just use the [score sheet](https://poarthanarseus.github.io/bridge-rules/#bridge-scoresheet).
+This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to start out with scoring is to use a scoring cheatsheet, like this one from ACBL(American Contract Bridge League): [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf).
 
 ### Materials
 -	4 Players
@@ -110,7 +110,7 @@ Access and print the scoring cheatsheet from ACBL: [https://web2.acbl.org/docume
 ### Bridge CheatSheet
 This is a cheatsheet we created for those learning Bridge:
 ![Westview Bridge Cheatsheet](/uploads/half-cheatsheet-westview-bridge.jpg)
-The pdf is linked here: [https://westviewbridgeclub.online/uploads/westview-bridge-cheat-sheet.pdf](https://poarthanarseus.github.io/uploads/westview-bridge-cheat-sheet.pdf)
+The pdf is linked here: [https://westviewbridgeclub.online/uploads/westview-bridge-cheat-sheet-v2.pdf](https://poarthanarseus.github.io/uploads/westview-bridge-cheat-sheet-v2.pdf)
 
 ---
 ## Playing Materials and Learning Resources
