@@ -13,7 +13,7 @@ ShowBreadCrumbs: false
 ---
 
 ## Meeting:
-Wednesday, 2/22/2023, 2:35-3:45PM at room N215
+Monday, 3/06/2023, 2:35-3:45PM at room N215
 
 ## Community Events:
 ### Laurel Parc at Bethany Village Event:
@@ -27,7 +27,7 @@ Dates and Times:\
 Location: 15850 NW Central Dr Portland, OR 97229
 
 ### Avamere at Hillsboro Event:
-Date and Time: *Scheduling*\
+Date and Time: March 30th 1:30 PM - 3:00 PM\
 Location: 2000 SE 30th Ave, Hillsboro, OR 97123.
 
 Contact me if you are interested in participating in the community event at: [https://westviewbridgeclub.online/about/](https://westviewbridgeclub.online/about/)
