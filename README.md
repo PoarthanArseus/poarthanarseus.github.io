@@ -28,7 +28,7 @@ Afterwards, clone this repository: `git clone https://github.com/PoarthanArseus/
 
 Then, in the same directory run `hugo`
 
-Afterwards if you can on Linux or WSL run `find . -type f -exec unix2dos {} \;`, otherwise, please wait for someone else to update the website, because the difference between unix and dos will break the website css. 
+Afterwards if you can on Linux or WSL run `find . -type f -exec dos2unix {} \;`, otherwise, please wait for someone else to update the website, because the difference between unix and dos will break the website css. 
 
 Then commit and push changes to publish them.
 
