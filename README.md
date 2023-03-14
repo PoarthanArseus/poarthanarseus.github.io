@@ -24,7 +24,10 @@ Afterwards, you can commit the new post and later when the website is updated th
 
 To start you will need install hugo: https://gohugo.io/installation/
 
-Afterwards, clone this repository: `git clone https://github.com/PoarthanArseus/poarthanarseus.github.io`
+Afterwards, clone this repository: `git clone https://github.com/PoarthanArseus/poarthanarseus.github.io` 
+Add the Papermod submodule: `git submodule update --init --recursive`
+
+Then you can add your post into the /content/posts/
 
 Then, in the same directory run `hugo`
 

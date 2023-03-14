@@ -17,7 +17,11 @@ Here is where things finally seem to go uphill for Chris and Siddesh. Together w
 The last hand, they had plenty of high card points, but length in Diamonds, once again at this point it was Go Big or Go Home, so they went to 5 diamonds, bidding game. Sadly they would again fail to make it just barely. Terrible day for the pair Chris and Siddesh, next week we will try to do Rubber Bridge properly and have the partnerships rotate. Below are the bids and scores:
 
 
-North: Chris, South: Siddesh, East: Arnold, West: Adwaith
+North: Chris\
+South: Siddesh\
+East: Arnold\
+West: Adwaith
+
 | Deal | Contract           | By | Opening Lead    | Made | Score |
 |------|--------------------|----|-----------------|------|-------|
 | 1    | 2 Diamonds         | E  | 5 of Spades     | +3   | 150   |
