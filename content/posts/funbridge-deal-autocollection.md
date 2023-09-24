@@ -24,12 +24,11 @@ pip install selenium
 ### Windows
 To install python on Windows you can visit the Microsoft store, or set it up through the python website.
 You can download git from [https://git-scm.com/download/win](https://git-scm.com/download/win).
+You may also need to figure out how to install pip for windows seperately.
 To install selenium, you can just open Powershell and run:
 `pip install selenium`
 
-For both Windows and Ubuntu, you will also need to use the correct web driver for selenium to run, you can find install instructions here: [https://www.selenium.dev/documentation/webdriver/getting\_started/install\_drivers/](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
-
-The script by default uses Chrome, but if you want to use something else edit the driver variable on line 7.
+## Geting the Script
 
 After installing, git you can clone the script from this repo: [https://github.com/Poarthan/funbridge-autocollect-deals](https://github.com/Poarthan/funbridge-autocollect-deals)
 ```
