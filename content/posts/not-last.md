@@ -6,7 +6,7 @@ categories: ["Club Meet", "Tournaments"]
 summary: "This was Chris' first official tournament and we couldn't wait to work together to play against real semi-pros and amateurs."
 weight: -30
 ShowPostNavLinks: True
-___
+---
 
 Finally, we did it, Chris and I got to play together in a really serious bridge tournament. My brother was out sick, so he sadly couldn't join us, but after learning a lot from my first 2 bridge tournaments we were ready for round 2. Chris had his morning warm-up of crushing bridge bots:
 
