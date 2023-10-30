@@ -33,8 +33,8 @@ The dummy also gives the contract winners a slight advantage so even if the Hono
 That’s why Bridge took off in the 1900s and was played by some of the brightest minds from leaders like Eisenhower, Winston Churchill, Gandhi, Deng Xiaoping and World Champion Chess players.
 
 Sources:
-Development of Bridge: [https://www.britannica.com/topic/bridge-card-game/The-development-of-the-game](https://www.britannica.com/topic/bridge-card-game/The-development-of-the-game)
-Dislike the Dummy Hand Discussion: [https://boardgamegeek.com/thread/507027/am-i-only-one-dislikes-having-dummy-hand](https://boardgamegeek.com/thread/507027/am-i-only-one-dislikes-having-dummy-hand)
-Why is there a Dummy in Bridge, Forum Question: [https://boardgames.stackexchange.com/questions/45906/why-is-there-a-dummy-in-bridge](https://boardgames.stackexchange.com/questions/45906/why-is-there-a-dummy-in-bridge)
+Development of Bridge: [https://www.britannica.com/topic/bridge-card-game/The-development-of-the-game](https://www.britannica.com/topic/bridge-card-game/The-development-of-the-game)\
+Dislike the Dummy Hand Discussion: [https://boardgamegeek.com/thread/507027/am-i-only-one-dislikes-having-dummy-hand](https://boardgamegeek.com/thread/507027/am-i-only-one-dislikes-having-dummy-hand)\
+Why is there a Dummy in Bridge, Forum Question: [https://boardgames.stackexchange.com/questions/45906/why-is-there-a-dummy-in-bridge](https://boardgames.stackexchange.com/questions/45906/why-is-there-a-dummy-in-bridge)\
 
 

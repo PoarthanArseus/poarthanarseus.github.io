@@ -11,14 +11,14 @@ ShowPostNavLinks: True
 Thank you to all the new members! Special mention to Zahra for bringing over multiple members from NHS to come enjoy a relaxing afternoon at Bridge Club.
 
 Here are some awesome photos from the week:
-![Chris Sings Opera](/uploads/bridge-club-meet-10-16-2023/IMG\_7735.jpg)
+![Chris-Sings-Opera](/uploads/bridge-club-meet-10-16-2023/IMG-7735.jpg)
 *Chris Sings Opera*
 
-![Chris Explains](/uploads/bridge-club-meet-10-16-2023/IMG\_7734.jpg)
+![Chris-Explains](/uploads/bridge-club-meet-10-16-2023/IMG-7734.jpg)
 *Chris Explains*
 
-![Chris is Concerned](/uploads/bridge-club-meet-10-16-2023/IMG\_7733.jpg)
+![Chris-is-Concerned](/uploads/bridge-club-meet-10-16-2023/IMG-7733.jpg)
 *Chris is Concerned*
 
-![Adwaith Posing](/uploads/bridge-club-meet-10-16-2023/IMG\_773.jpg)
+![Adwaith-Posing](/uploads/bridge-club-meet-10-16-2023/IMG-773.jpg)
 *Adwaith Posing*
