@@ -1,5 +1,5 @@
 ---
-title: "Not Last in a Real Tournament"
+title: "Not Last!"
 date: 2023-08-02
 Author: "Arnold Yang"
 categories: ["Club Meet", "Tournaments"]
@@ -17,3 +17,5 @@ Not a great start, but we continued through, and in the open section, you obviou
 
 Overall it was a fun experience, we learned a lot from playing an actual tournament in bridge. At first, we started to think we were pretty good at bridge, as we could start to easily rank high in Funbridge tournaments and crush Funbridge bots. However, this tournament was a learning experience for both of us as we realized that the reason we could beat those bots so easily was that we could predict them so well. We knew the meanings of their bids, and how they played and so we had most of the information.
 To get better, we would have to train together and play more esoteric bidding systems. 
+
+*You can find more about the hands we played here:* [https://www.bridgewebs.com/cgi-bin/bwoq/bw.cgi?pid=display\_rank&event=20230802\_1&club=portland](https://www.bridgewebs.com/cgi-bin/bwoq/bw.cgi?pid=display_rank&event=20230802_1&club=portland)

@@ -18,8 +18,12 @@ Club Vice President: Chris Willard
 
 ---
 ### Meeting Information:
-Every Monday 2:35-3:45 at classrom N215
+Every Monday 2:35-4:00 at classrom N215
 Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
+
+---
+### Signup Form
+[https://docs.google.com/forms/d/e/1FAIpQLScOJSJKP9f-yOLxpUv7e3iwQ4V8V7P15oaALK2KxESDwtrmKg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScOJSJKP9f-yOLxpUv7e3iwQ4V8V7P15oaALK2KxESDwtrmKg/viewform)
 
 ---
 ### Contacts:
@@ -27,6 +31,7 @@ Email: arnold.tianyi.yang@gmail.com\
 Discord: PoarthanArseus#8563
 
 ---
+### Affiliations:
 Westivew Cybersecurity Club: [https://westview.titanturtles.org/home/](https://westview.titanturtles.org/home/)
 
 Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtles.org/)
