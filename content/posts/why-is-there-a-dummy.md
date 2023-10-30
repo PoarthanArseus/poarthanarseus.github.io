@@ -11,7 +11,7 @@ ShowPostNavLinks: True
 Today, we welcome a new member and one with actual Bridge(Whist) experience Sara. 
 Chris was an absolute menace when it came to his luck with hands today, so we don’t need to talk about the hands. We talk instead about a new way to play bridge we learned about called Whist.
 
-![10-23-23-meeting.jpg](10-23-2023-meeting-photo)
+![/uploads/10-23-23-meeting.jpg](10-23-2023-meeting-photo)
 
 Whist is actually the predecessor to Bridge. When we say Bridge goes back to the 15th century, we actually are talking about Whist. 
 
