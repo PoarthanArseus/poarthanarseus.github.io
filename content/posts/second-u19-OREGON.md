@@ -3,6 +3,8 @@ title: "Second Ranked U19 Oregon"
 date: 2023-09-21
 Author: "Arnold Yang"
 categories: ["Tournaments"]
+cover:
+    image: "../../uploads/oregonsecond/ranked.png"
 summary: "Arthur is 2nd ranked bridge player that's under 19 in Oregon."
 weight: -40
 ShowPostNavLinks: True

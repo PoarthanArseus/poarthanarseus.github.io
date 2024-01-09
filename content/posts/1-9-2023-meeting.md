@@ -4,6 +4,8 @@ date: 2023-01-09
 Author: "Arnold Yang"
 categories: ["Club Meet", "Tournaments"]
 summary: "Great first meeting back from winter break! More new members, some solid practice rounds and First Bridge Base Online Tournaments."
+cover:
+    image: "/uploads/new-members-1-9-2023.jpg"
 weight: -6
 ShowPostNavLinks: True
 ---
@@ -29,4 +31,4 @@ Overall the tournament still went pretty well for our first BBO tournament witho
 
 ![BBO Results](/uploads/first-bbo-tournament.JPG)
 
-At the end of the day, this was our best meeting yet, we had a lot of new students, some of the regular members now all knew how to play and were able to get a few full deals in and we were able to complete our first BBO tournament. 
+At the end of the day, this was our best meeting yet, we had a lot of new students, some of the regular members now all knew how to play and were able to get a few full deals in and we were able to complete our first BBO tournament.

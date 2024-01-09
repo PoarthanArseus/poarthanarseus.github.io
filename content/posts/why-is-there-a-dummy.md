@@ -5,26 +5,28 @@ Author: "Arnold Yang"
 categories: ["Club Meet","Miscellaneous"]
 summary: "The purpose of the dummy role makes Bridge different from all other trick-taking games. If players have more information about the game, how does that make Bridge more complext rather than less?"
 weight: -32
+cover:
+    image: "/uploads/10-23-23-meeting.jpg"
 ShowPostNavLinks: True
 ---
 
-Today, we welcome a new member and one with actual Bridge(Whist) experience Sara. 
+Today, we welcome a new member and one with actual Bridge(Whist) experience Sara.
 Chris was an absolute menace when it came to his luck with hands today, so we don’t need to talk about the hands. We talk instead about a new way to play bridge we learned about called Whist.
 
 ![10-23-2023-meeting-photo](/uploads/10-23-23-meeting.jpg)
 
-Whist is actually the predecessor to Bridge. When we say Bridge goes back to the 15th century, we actually are talking about Whist. 
+Whist is actually the predecessor to Bridge. When we say Bridge goes back to the 15th century, we actually are talking about Whist.
 
 What is the difference between Whist and Bridge?
 
-In Whist there is no dummy. 
-The dummy is the partner of the declarer - the one who first bid the contract-winning suit. The dummy will lay his hand out after the first card is played and just play what the Declarer tells them to. 
+In Whist there is no dummy.
+The dummy is the partner of the declarer - the one who first bid the contract-winning suit. The dummy will lay his hand out after the first card is played and just play what the Declarer tells them to.
 
-Sara actually played this version of bridge, and when she brought up the fact that the dummy role does almost nothing, we didn’t have a good response to justify the role of the dummy. 
+Sara actually played this version of bridge, and when she brought up the fact that the dummy role does almost nothing, we didn’t have a good response to justify the role of the dummy.
 
 Why is there a dummy in Bridge?
 
-The Dummy first appeared in the 1870s evolving from 3-person whist to create Biritch or Russian Whist. This would take London Whist clubs by storm over the next few decades, as people slowly realized that it was Bridge that was more scientific and strategic, because it removed a lot of the blindly guessing element from the game. 
+The Dummy first appeared in the 1870s evolving from 3-person whist to create Biritch or Russian Whist. This would take London Whist clubs by storm over the next few decades, as people slowly realized that it was Bridge that was more scientific and strategic, because it removed a lot of the blindly guessing element from the game.
 
 The dummy is what gives strategy and skill to bridge. Knowing 50% of the cards creates strategies like finessing, it allows you to predict other cards more accurately and requires precise play on almost every trick. While other trick-taking games do have some basic strategy, but overall it is much more random and less precise. Simply put, there’s more information for the players, so they can actually try cool plays like squeezing, rather than blindly playing.
 

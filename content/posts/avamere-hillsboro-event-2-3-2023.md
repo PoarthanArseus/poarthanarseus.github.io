@@ -4,6 +4,8 @@ date: 2023-02-19
 Author: "Arnold Yang"
 categories: ["Community Events"]
 summary: "This is our first Bridge community event overall and at the Avamere at Hillsboro Senior Living Center. We had a lot of fun interacting with the seniors there and playing Bridge together."
+cover:
+    image: "/uploads/avamere-2-3-2023-event/IMG-7632.JPG"
 weight: -13
 ShowPostNavLinks: True
 ---

@@ -4,11 +4,13 @@ date: 2023-03-06
 Author: "Arnold Yang"
 categories: ["Club Meet"]
 summary: "A terrible day for Chris and Siddesh, who lost points every round. For the first 4 they had terrible hands, and for the last 2 hands they went down."
+cover:
+    image: "/uploads/3-6-2023-meeting/IMG_2743.jpg"
 weight: -15
 ShowPostNavLinks: True
 ---
 
-Tough day for Chris and Siddesh. They lost every hand, and the first 4 hands were all lost. The first hand, Adwaith and I went 2 diamonds, I was leaning on being more conservative to start, as I wasn't sure how Adwaith would bid. I had a relatively weak hand in the 2nd one, so I let Adwaith do all the work. The third hand, we 3NT seemed like a slight stretch with 28 HCP, but it turns out our weird card shape came to advantage and we would actually make 6NT small slam. I had another terrible hand on the 4th one, so Adwaith was able to just barely squeeze 2 hearts. 
+Tough day for Chris and Siddesh. They lost every hand, and the first 4 hands were all lost. The first hand, Adwaith and I went 2 diamonds, I was leaning on being more conservative to start, as I wasn't sure how Adwaith would bid. I had a relatively weak hand in the 2nd one, so I let Adwaith do all the work. The third hand, we 3NT seemed like a slight stretch with 28 HCP, but it turns out our weird card shape came to advantage and we would actually make 6NT small slam. I had another terrible hand on the 4th one, so Adwaith was able to just barely squeeze 2 hearts.
 
 ![Table 1](/uploads/3-6-2023-meeting/IMG_2743.jpg)
 

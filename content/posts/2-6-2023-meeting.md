@@ -4,6 +4,8 @@ date: 2023-02-06
 Author: "Chris Willard and Arnold Yang"
 categories: ["Club Meet"]
 summary: "We had a great meeting, now with multiple people knowledgable people who know how to play Bridge, and a full 8 people at the end, but not enough time. If we have the full 8 people from the start next time, we can play duplicate bridge."
+cover:
+    image: "/uploads/2-6-2023-bridge-club-meeting/IMG-6313.jpg"
 weight: -10
 ShowPostNavLinks: True
 ---

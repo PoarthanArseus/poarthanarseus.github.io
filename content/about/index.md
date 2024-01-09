@@ -11,6 +11,7 @@ ShowShareButtons: false
 ShowBreadCrumbs: false
 ---
 Welcome to the site of the Westview Bridge Club, our goal is to help seniors is to help the mental wellbeings of seniors and connect the younger and older generations, through fun mental activities like bridge. We are partnering with the Westview and Titanturtles Cybersecurity club, to help prevent the elder generation from being exploited. We organize community events with Senior Living Centers and are available for contact below.
+For privacy reasons we do not post too many blogs about our volunteering activities, however, they happen biweekly, feel free to contact us for more information.
 
 Club President: Arnold Yang
 

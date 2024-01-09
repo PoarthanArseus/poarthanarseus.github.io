@@ -4,6 +4,8 @@ date: 2023-01-30
 Author: "Arnold Yang"
 categories: ["Club Meet"]
 summary: "Chris was sick today, but we still had enough players to make a table of 4 and play for a bit. This week being finals week, a few of the other clubs like Chess club were cancelled so we also had Bhavin and Jerry check in earlier to play a few rounds of Bridge with us."
+cover:
+    image: "/uploads/1-30-bridge-meet.jpg"
 weight: -7
 ShowPostNavLinks: True
 ---

@@ -5,6 +5,8 @@ date: 2023-02-05
 Author: "Arnold Yang"
 categories: ["Community Events"]
 summary: "Laurel Parc Community Volunteering Event 2/5/2023: This is our first community volunteering event at Laurel Parc Senior Living Center. We met many expert players and learned a lot during this community event."
+cover:
+    image: "/uploads/laurel-parc-2-5-2023-event/IMG-9156.jpg"
 weight: -9
 ShowPostNavLinks: True
 ---
@@ -17,7 +19,7 @@ Upon arrival at the senior living center, the Bridge Club kids were greeted by f
 
 ![First Table](/uploads/laurel-parc-2-5-2023-event/IMG-9161.jpg)
 
-At the first table we have Delinda (in the vest) paired with Arnold (in blue) vs Sue (in white and blue) paired with Kishore (in black). Sue is an experienced bridge player with more than 3 years under her belt while this was only Kishore's third time playing. On the other hand, although  this was Delinda's first time playing bridge, she has a wealth of experience playing trick-taking card games like pinochle pairing with Arnold who has 5 months of experience. The table ended up being equally matched, with both sides equally winning three 120-190 points games and going down a couple of tricks in the last 2 games. 
+At the first table we have Delinda (in the vest) paired with Arnold (in blue) vs Sue (in white and blue) paired with Kishore (in black). Sue is an experienced bridge player with more than 3 years under her belt while this was only Kishore's third time playing. On the other hand, although  this was Delinda's first time playing bridge, she has a wealth of experience playing trick-taking card games like pinochle pairing with Arnold who has 5 months of experience. The table ended up being equally matched, with both sides equally winning three 120-190 points games and going down a couple of tricks in the last 2 games.
 
 ![Second Table](/uploads/laurel-parc-2-5-2023-event/IMG-9158.jpg)
 
