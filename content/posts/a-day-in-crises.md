@@ -5,7 +5,7 @@ date: 2024-04-15
 Author: "Zahra Bandukwala"
 categories: ["Community Events"]
 cover:
-    image: "/uploads/laurel-parc-11-12-24-event/IMG-7836.jpg"
+    image: "/uploads/laurel-parc-11-12-24-event/IMG_7836.jpg"
 weight: -41
 ShowPostNavLinks: True
 ---
@@ -25,7 +25,7 @@ My poor memory also applies to bridge hands, apparently, because I could not tel
 This was genuinely one of the most fun and interesting volunteer experiences I have ever participated in. From the strategy of playing bridge, to the human connection with the seniors, I was engaged in every second. My only wish is that Arnold improve his communication skills.
 
 
-![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG-2403.jpg)
+![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG_2403.jpg)
 *Zahra Calculating her win...*
 
-![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG-2400.jpg)
+![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG_2400.jpg)
