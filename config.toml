@@ -30,6 +30,7 @@ ShowCodeCopyButtons = false
 ShowWordCount = true
 ShowRssButtonInSectionTermList = false
 UseHugoToc = true
+disableFingerprinting = true
 disableSpecial1stPost = true
 disableScrollToTop = false
 comments = false
