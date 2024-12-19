@@ -37,6 +37,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+disableFingerprinting = true
 
   [params.assets]
   favicon = "/uploads/playing-cards.ico"
