@@ -30,7 +30,6 @@ ShowCodeCopyButtons = false
 ShowWordCount = true
 ShowRssButtonInSectionTermList = false
 UseHugoToc = true
-disableFingerprinting = true
 disableSpecial1stPost = true
 disableScrollToTop = false
 comments = false
@@ -45,11 +44,12 @@ tocopen = false
   favicon32x32 = "/uploads/playing-cards.ico"
   apple_touch_icon = "/uploads/playing-cards.ico"
   safari_pinned_tab = "/uploads/playing-cards.ico"
+  disableFingerprinting = true
 
   [params.label]
   text = "Westview Bridge Club"
   #icon = "/uploads/playing-cards.ico"
-  #iconHeight = 35                 
+  #iconHeight = 35
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
