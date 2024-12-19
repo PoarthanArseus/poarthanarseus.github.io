@@ -43,6 +43,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+      - name: Ensure Linux line endings
+        run: |
+          sudo apt-get update && sudo apt-get install -y dos2unix
+          find . -type f -exec dos2unix {} \;
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
