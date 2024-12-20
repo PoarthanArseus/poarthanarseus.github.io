@@ -11,8 +11,8 @@ enableEmoji = true
 pygmentsUseClasses = true
 
 [minify]
-disableXML = true
-minifyOutput = true
+disableXML = false
+minifyOutput = false
 
 [params]
 env = "production"
@@ -127,6 +127,5 @@ weight = 40
 
 [markup]
 unsafe = true
-
   [markup.highlight]
   noClasses = false
