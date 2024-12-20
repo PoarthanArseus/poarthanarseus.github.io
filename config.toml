@@ -126,6 +126,8 @@ url = "/events/"
 weight = 40
 
 [markup]
-unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.highlight]
   noClasses = false
