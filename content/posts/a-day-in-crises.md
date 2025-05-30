@@ -1,5 +1,5 @@
 ---
-title: "A Day of Unforgettable Crises and Awesome Bridge at Laurel Parc"
+title: "Zahra crashing out"
 subtitle: "Zahra's first time playing bridge at Laurel Parc with us."
 date: 2024-04-15
 Author: "Zahra Bandukwala"
@@ -26,6 +26,6 @@ This was genuinely one of the most fun and interesting volunteer experiences I h
 
 
 ![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG_2403.jpg)
-*Zahra Calculating her win...*
+*Zahra calculating her win...*
 
 ![Laurel Parc Community Event](/uploads/laurel-parc-11-12-24-event/IMG_2400.jpg)
