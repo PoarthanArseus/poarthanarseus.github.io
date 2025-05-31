@@ -17,7 +17,7 @@ Club President: Arthur Yang
 
 ---
 ### Meeting Information:
-Every Monday 2:35-4:00 at classrom N215
+Every Monday 7:45-8:30AM at classrom N229
 Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
 
 ---
