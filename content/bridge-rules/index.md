@@ -10,7 +10,7 @@ disableScrollToTop: False
 ---
 
 ## Getting Started
-This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to start out with scoring is to use a scoring cheatsheet, like this one from ACBL(American Contract Bridge League): [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf).
+This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to start out with scoring is to use a scoring cheatsheet, like this one from ACBL(American Contract Bridge League): [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf). Start with minibridge: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
 
 ### Materials
 -	4 Players
@@ -23,28 +23,10 @@ Generally, the game starts with whoever is sitting in the North end and they wil
 
 One recommendation is that it may generally be easier to learn how the playing phase of Bridge works before going back and learning the bidding phase.
 
----
-## Part 1: Bidding
-The goal of the bidding phase is to nominate a contract that the team who called the bid will play. During the entire bidding phase of the game, partners and opposing teams are not allowed to communicate through any means verbally or nonverbally other than through their bids.
-
-A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://poarthanarseus.github.io/bridge-rules/#trumpingruffing).
--	The number represents the number of tricks plus six(because 13/2 rounds down to 6) that the bidder thinks they and their partner can win.
--	The suit bid can be clubs(:clubs:), diamonds(:diamonds:), hearts(:hearts:), spades(:spades:), or no trump(**NT**). The suit bid will be the trump suit which will make it better than other suits during the playing phase. No trump means that there are no trump suits.
-
-### Winning Bid
-Bidding starts from the dealer, who makes the first bid and subsequent bids are made in clockwise order until 3 passes in a row from the other players, meaning they don't want to bid higher. When a team wins a contract, the player on the team who first bid the suit in the final contract is considered to have won the bid(this is important for who begins play). For example, if North starts with 1:spades:, and the contract ends with South who bid 4:spades:, even though in that partnership South had the last bid, North is considered the winner of the bid. The winner of the bid is also called the declarer.
-
-### Bid Strength
-1.	The higher the number of tricks, the higher the bid
-2.	When bidding to win the same number of tricks, the suit strength from weakest to strongest is as follows: Clubs(:clubs:), Diamonds(:diamonds:), Hearts(:hearts:), Spades(:spades:), No Trump(**NT**)
-![FunBridge Bidding](/uploads/funbridge-bidding-removebg-preview.png)
-Generally in Bridge, bidding the highest and most precise contract a team can win will award that partnership the most points. If a player thinks that the opposing team has bid an unmakably high contract they can bid a double, this will be counted as another bid and will require another 3 passes to end the bidding. A double will double the number of points won or lost by the declaring team. In rare cases, if the bidding team is confident that they can make the contract they can redouble the contract, therefore quadrupling the number of points won or lost.
-
-Biding is a complex process when you must guess with only knowledge of your cards and everybody's bids what everybody's hands(a hand is all the cards that have been dealt to you) look like. For more information look at bidding systems in [resources](https://poarthanarseus.github.io/bridgerules/#playing-materials-and-learning-resources).
 
 ---
-## Part 2: Playing
-After a contract is decided upon, play starts with the player sitting one spot clockwise of the [declarer](https://poarthanarseus.github.io/bridgerules/#winning-bid). For instance, if North wins the bid then East begins play.
+## Part 1: Playing
+After a contract is decided upon, play starts with the player sitting one spot clockwise of the [declarer](https://poarthanarseus.github.io/bridgerules/#winning-bid). For instance, if North wins the bid then East begins play. For the quickest understanding of bridge it is recommended to focus on learning how the playing before learning bidding.
 
 The first card played is called "opening lead" and is conventionally played faced down.
 
@@ -62,6 +44,26 @@ It is conventional that at the end of each trick, cards will be flipped over in 
 
 This will make counting tricks easy at the end, and if the players want to review what they played, they can flip over the cards and see the play in order. At the end of the deal, the number of tricks won by the declaring side is counted and points will be calculated.
 
+Practice: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
+
+---
+## Part 2: Bidding
+The goal of the bidding phase is to nominate a contract that the team who called the bid will play. During the entire bidding phase of the game, partners and opposing teams are not allowed to communicate through any means verbally or nonverbally other than through their bids.
+
+A contract consists of the 2 parts a number 1 through 7 and a [trump suit](https://poarthanarseus.github.io/bridge-rules/#trumpingruffing).
+-	The number represents the number of tricks plus six(because 13/2 rounds down to 6) that the bidder thinks they and their partner can win.
+-	The suit bid can be clubs(:clubs:), diamonds(:diamonds:), hearts(:hearts:), spades(:spades:), or no trump(**NT**). The suit bid will be the trump suit which will make it better than other suits during the playing phase. No trump means that there are no trump suits.
+
+### Winning Bid
+Bidding starts from the dealer, who makes the first bid and subsequent bids are made in clockwise order until 3 passes in a row from the other players, meaning they don't want to bid higher. When a team wins a contract, the player on the team who first bid the suit in the final contract is considered to have won the bid(this is important for who begins play). For example, if North starts with 1:spades:, and the contract ends with South who bid 4:spades:, even though in that partnership South had the last bid, North is considered the winner of the bid. The winner of the bid is also called the declarer.
+
+### Bid Strength
+1.	The higher the number of tricks, the higher the bid
+2.	When bidding to win the same number of tricks, the suit strength from weakest to strongest is as follows: Clubs(:clubs:), Diamonds(:diamonds:), Hearts(:hearts:), Spades(:spades:), No Trump(**NT**)
+![FunBridge Bidding](/uploads/funbridge-bidding-removebg-preview.png)
+Generally in Bridge, bidding the highest and most precise contract a team can win will award that partnership the most points. If a player thinks that the opposing team has bid an unmakably high contract they can bid a double, this will be counted as another bid and will require another 3 passes to end the bidding. A double will double the number of points won or lost by the declaring team. In rare cases, if the bidding team is confident that they can make the contract they can redouble the contract, therefore quadrupling the number of points won or lost.
+
+Biding is a complex process when you must guess with only knowledge of your cards and everybody's bids what everybody's hands(a hand is all the cards that have been dealt to you) look like. For more information look at bidding systems in [resources](https://poarthanarseus.github.io/bridgerules/#playing-materials-and-learning-resources).
 
 ---
 ## Scoring
