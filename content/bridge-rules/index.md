@@ -10,7 +10,8 @@ disableScrollToTop: False
 ---
 
 ## Getting Started
-This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to start out with scoring is to use a scoring cheatsheet, like this one from ACBL(American Contract Bridge League): [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf). Start with minibridge: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
+This is a tutorial on how to get started playing bridge on a casual level. We recommend that you start by learning to play, then bidding, and finally if you are really up for it scoring. Scoring is complex and the rules for it change between different variants of bridge, so the best way to start out with scoring is to use a scoring cheatsheet, like this one from ACBL(American Contract Bridge League): [https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf](https://web2.acbl.org/documentLibrary/play/InstantScorer.pdf). 
+Start with minibridge: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
 
 ### Materials
 -	4 Players
@@ -44,7 +45,7 @@ It is conventional that at the end of each trick, cards will be flipped over in 
 
 This will make counting tricks easy at the end, and if the players want to review what they played, they can flip over the cards and see the play in order. At the end of the deal, the number of tricks won by the declaring side is counted and points will be calculated.
 
-Practice: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
+Practice with minibridge: [https://www.bridgebase.com/edu/minibridge/](https://www.bridgebase.com/edu/minibridge/)
 
 ---
 ## Part 2: Bidding
