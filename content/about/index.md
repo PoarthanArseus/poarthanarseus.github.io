@@ -17,7 +17,7 @@ Club President: Arthur Yang
 
 ---
 ### Meeting Information:
-Every Monday After school from 3:40 PM - 4:40 PM in room N215
+Every Monday After school from 3:40 PM - 4:40 PM in room N215\
 Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
 
 ---
