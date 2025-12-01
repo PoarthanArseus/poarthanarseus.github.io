@@ -17,7 +17,7 @@ Club President: Arthur Yang
 
 ---
 ### Meeting Information:
-Every Monday 7:45-8:30AM at classrom N229
+Every Monday After school from 3:40 PM - 4:40 PM in room N215
 Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
 
 ---
@@ -26,8 +26,11 @@ Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com
 
 ---
 ### Contacts:
-Email: arnold.tianyi.yang@gmail.com\
-Discord: PoarthanArseus#8563
+Founder/Alumni - Email: arnold.tianyi.yang@gmail.com\
+Founder/Alumni - Discord: PoarthanArseus#8563
+
+President - Email: arthur.tianqi.yang@gmail.com\
+President - Discord: wartfur
 
 ---
 ### Affiliations:
