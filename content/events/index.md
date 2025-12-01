@@ -16,7 +16,7 @@ ShowBreadCrumbs: false
 Monday, 12/1/2025, 3:40-4:40 PM at room N215\
 Monday, 12/8/2025, 3:40-4:40 PM at room N215\
 Monday, 12/15/2025, 3:40-4:40 PM at room N215\
-Winter break on Monday, 12/22/2025\
+Winter break on Monday, 12/22/2025
 
 Monday, 1/12/2026, 3:40-4:40 PM at room N215
 
