@@ -29,7 +29,8 @@ Dates and Times:\
 Location: 15850 NW Central Dr Portland, OR 97229
 
 ### Portland Bridge Club Tournaments:
-Date and Time: December 5, 2025 - 1500 Pairs\
+Date and Time: December 5, 2025, 6:30 PM - 1500 Pairs\
 Location: 2201 Lloyd Center, Portland, OR 97232
+Portland Bridge Club Website: [Link To Calendar](https://www.bridgewebs.com/cgi-bin/bwor/bw.cgi?pid=display_month&event=20251205_2&wd=1&club=portland)
 
 Contact me if you are interested in participating in the community event at: [https://westviewbridgeclub.online/about/](https://westviewbridgeclub.online/about/)
