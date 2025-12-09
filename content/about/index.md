@@ -38,17 +38,17 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 ---
 ### Our Rated Players
 
-- Arnold Yang (Alumni - University: Stanford)
+- Arnold Yang (Alumni)
   - 2025: Ranked #7 in Oregon (#238 Nationally)
   - 2024: Ranked #7 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 1.96
 
-- Christopher Willard (Alumni - University: OSU)
+- Christopher Willard (Alumni)
   - 2025: Ranked #6 in Oregon (#217 Nationally)
   - 2024: Ranked #8 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 3.57
  
-- Arthur Yang (Current President - 11th Grd)
+- Arthur Yang (Grd: 11)
   - 2025: Ranked #8 in Oregon (#344 Nationally)
   - 2023: Ranked #2 in Oregon (#261 Nationally)
   - Total MasterPoints Earned: 0.62
