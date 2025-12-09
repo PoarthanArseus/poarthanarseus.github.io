@@ -119,6 +119,7 @@ The pdf is linked here: [https://westviewbridgeclub.online/uploads/westview-brid
 -	[Funbridge Learn](https://play.funbridge.com/learn)
 -	[FunBridge Practice](https://play.funbridge.com/t/practice)
 -	[BridgeBase Practice](https://www.bridgebase.com/v3/)
+-	[Bridge Tips for Beginners](https://kwbridge.com/tips.htm)
 
 ---
 ### Article Resources:
