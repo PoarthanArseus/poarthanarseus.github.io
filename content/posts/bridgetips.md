@@ -35,7 +35,7 @@ ShowPostNavLinks: True
   - When starting the play, the very first thing you want to do in order to make your contract is to get rid of your opponent's trump by playing your trump. Here's an example: Let's say my dummy hand has 4 heart cards. My hand has 5 heart cards. The contract we bid was 3(Hearts). Here are the Heart cards that we have together: A, K, Q, J, 10, 7, 4, 3, 2. Because each suit has 13 cards and we have 9 of the heart cards, we play the Ace of hearts to make our opponent's play 2 heart cards total. 13-9 = 4 heart cards; this is how many hearts our opponent has in total. 4 - 2 = 2 heart cards; this is how many hearts they have left after playing the Ace of hearts.
 
 ### Suit Contract Guide
-  - **(1)** When bidding, make sure to communicate that you have at least 8 cards in the suit you bid. **(2)** Remember to get rid of your opponent's suit. **(3)** Once your opponents are out of trump, start playing other suits. **(4)** You should have around 1-4 Trump cards saved up for the later game.
+  - **(1)** When bidding, make sure that you have 8 cards in the suit you bid (you and your partners decks). **(2)** Remember to get rid of your opponent's suit. **(3)** Once your opponents are out of trump, start playing other suits. **(4)** You should have around 1-4 Trump cards saved up for the later game.
 
 
 ---
