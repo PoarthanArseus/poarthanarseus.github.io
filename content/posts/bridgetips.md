@@ -2,14 +2,14 @@
 title: "Bridge Tips For Beginners"
 date: 2025-12-09
 Author: "Arthur Yang"
-categories: ["Learn Bridge"]
+categories: ["Learning Bridge"]
 cover:
     image: ""
 summary: "Tips and tricks for Bridge Bidding and Play!"
 weight: -42
 ShowPostNavLinks: True
 ---
-
+*Date: 12/-9/2025*
 ### Tips for Beginners
 
 - Major Suits:
