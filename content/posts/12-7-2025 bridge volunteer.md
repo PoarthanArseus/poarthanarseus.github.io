@@ -9,7 +9,7 @@ summary: "Arthur and Dmitry get the worst hands of 2025"
 weight: -42
 ShowPostNavLinks: True
 ---
-
+*Date: 12/7/2025*
 ## IMPORTANT:
 
 Hey Bridge players, just want you to know that we had an absolute blast creating our very own BIDDING BOXES!!! (Pictures will be provided later) This is currently our most efficient way of bidding and playing, allowing new players and old players to excel and practice with others visually! We are nearing the end of 2025. Make sure you stay tuned for our new volunteering schedule for 2026!
