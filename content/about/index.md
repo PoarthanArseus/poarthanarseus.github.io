@@ -36,7 +36,7 @@ Westivew Cybersecurity Club: [https://westview.titanturtles.org/home/](https://w
 Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtles.org/)
 
 ---
-### Our Rated Players
+### Our Ranked Club Members
 
 - Arnold Yang (Alumni)
   - 2025: Ranked #7 in Oregon (#238 Nationally)
