@@ -9,7 +9,7 @@ summary: "Tips and tricks for Bridge Bidding and Play!"
 weight: -42
 ShowPostNavLinks: True
 ---
-*Date: 12/09/2025*
+*Date Edited: 12/09/2025*
 ### Tips for Beginners
 
 - Major Suits:
