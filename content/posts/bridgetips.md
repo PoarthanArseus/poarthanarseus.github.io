@@ -42,7 +42,7 @@ ShowPostNavLinks: True
 ### Other Tips
 *X in bids mean 1-7, X in cards mean 1-9. Basically a variable in math*
 - **Preempt Bidding:** Bidding at the 2X, 3X, or even 4X to indicate to you partner that you have 6+ cards in a suit. This **doesn't necessarily** mean *Strong hand*. This bid may also be used to mess up your opponents' bidding as going to the 2X level instantly or 3X level will disrupt their communication.
-- **Meta Strat:** Calling high on purpose even if you go down, knowing that your opponent can make a really high bid (likely game). This is also risky because your opponent may double you.
+- **Meta Strat:** Bidding higher than opponent on purpose even if you go down, knowing that your opponent can make a really high bid (likely game). This is also risky because your opponent may double you. This is usually recommended if you are in a tournament and wanna lose less points and gain a higher accuracy percentage.
 - **Takeout Double:** Doubling in order to indicate to your partner that you have 12+ points.
 - **Leading:** During play, if you are a defender and **you're leading**, here are some sequences to look out for: (Q,J,10,X), (K,Q,X), (A,K,X), (J,10,9,X)
   - If you have any of these sequences and you're defending, lead with the highest card in the sequence you have.
