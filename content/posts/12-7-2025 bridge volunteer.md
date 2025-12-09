@@ -5,7 +5,7 @@ Author: "Arthur Yang"
 categories: ["Community Events"]
 cover:
     image: "/uploads/2bridge12-7-2025.png"
-summary: "Arthur and Dmitry get the worst hands of 2025"
+summary: "Arthur and Dmitry get the worst hands of 2025 - 12/07/2025"
 weight: -42
 ShowPostNavLinks: True
 ---
