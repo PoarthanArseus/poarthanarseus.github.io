@@ -22,12 +22,13 @@ Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com
 
 ---
 ### Signup Form
+(It may take up to 72 hours in response to your application, please be patient! Thank you!)
 [https://docs.google.com/forms/d/e/1FAIpQLScOJSJKP9f-yOLxpUv7e3iwQ4V8V7P15oaALK2KxESDwtrmKg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScOJSJKP9f-yOLxpUv7e3iwQ4V8V7P15oaALK2KxESDwtrmKg/viewform)
 
 ---
 ### Contacts:
 President - Email: arthur.tianqi.yang@gmail.com\
-President - Discord: wartfur
+President - Discord: awaffle7
 
 ---
 ### Affiliations:
@@ -41,17 +42,17 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 - Arnold Yang (Alumni)
   - 2025: Ranked #7 in Oregon (#238 Nationally)
   - 2024: Ranked #7 in Oregon (#215 Nationally)
-  - Total MasterPoints Earned: 1.96
+  - Total MasterPoints Earned: 3.89
 
 - Christopher Willard (Alumni)
   - 2025: Ranked #6 in Oregon (#217 Nationally)
   - 2024: Ranked #8 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 3.57
  
-- Arthur Yang (Grd: 11)
+- Arthur Yang (Grd: 12)
   - 2025: Ranked #8 in Oregon (#344 Nationally)
   - 2023: Ranked #2 in Oregon (#261 Nationally)
-  - Total MasterPoints Earned: 0.62
+  - Total MasterPoints Earned: 2.27
 
 How do you get Masterpoints? Play in bridge tournaments and finish in the top 3!
 Registration for students at the Portland Bridge Club is 50% off, for only $6! 
