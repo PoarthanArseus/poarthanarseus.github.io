@@ -40,9 +40,10 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 ### Our Ranked Club Members:
 
 - Arnold Yang (Alumni)
+  - 2026: Junior Master Achieved
   - 2025: Ranked #7 in Oregon (#238 Nationally)
   - 2024: Ranked #7 in Oregon (#215 Nationally)
-  - Total MasterPoints Earned: 3.89
+  - Total MasterPoints Earned: 6+
 
 - Christopher Willard (Alumni)
   - 2025: Ranked #6 in Oregon (#217 Nationally)
@@ -52,7 +53,7 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 - Arthur Yang (Grd: 12)
   - 2025: Ranked #8 in Oregon (#344 Nationally)
   - 2023: Ranked #2 in Oregon (#261 Nationally)
-  - Total MasterPoints Earned: 2.27
+  - Total MasterPoints Earned: 4.48
 
 How do you get Masterpoints? Play in bridge tournaments and finish in the top 3!
 Registration for students at the Portland Bridge Club is 50% off, for only $6! 
