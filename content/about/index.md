@@ -17,7 +17,8 @@ Club President: Arthur Yang
 
 ---
 ### Meeting Information:
-Every Monday After school from 3:40 PM - 4:40 PM in room N215\
+Every Tuesday After school from 3:45 PM - 4:40 PM in room S230\
+I bring Donuts and snacks every meetings!\
 Club Discord Server: [https://discord.com/invite/Wnnw7rhwpJ](https://discord.com/invite/Wnnw7rhwpJ)
 
 ---
@@ -39,23 +40,24 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 ---
 ### Our Ranked Club Members:
 
-- Arnold Yang (Alumni)
-  - 2026: Junior Master Achieved
+- Arnold Yang (Stanford University) - WHS Alumni
+  - 2026: Junior Master Rank Achieved
   - 2025: Ranked #7 in Oregon (#238 Nationally)
   - 2024: Ranked #7 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 6+
 
-- Christopher Willard (Alumni)
+- Christopher Willard (Oregon State University) - WHS Alumni
   - 2025: Ranked #6 in Oregon (#217 Nationally)
   - 2024: Ranked #8 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 3.57
  
 - Arthur Yang (Grd: 12)
+  - 2026: Junior Master Rank Achieved
   - 2025: Ranked #8 in Oregon (#344 Nationally)
   - 2023: Ranked #2 in Oregon (#261 Nationally)
-  - Total MasterPoints Earned: 4.48
+  - Total MasterPoints Earned: 5.49
 
-How do you get Masterpoints? Play in bridge tournaments and finish in the top 3!
+How do you get Masterpoints? Play in bridge tournaments and perform with a high percentage!
 Registration for students at the Portland Bridge Club is 50% off, for only $6! 
 
 
