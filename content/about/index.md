@@ -40,19 +40,21 @@ Titanturtles Cybersecurity Club: [https://titanturtles.org/](https://titanturtle
 ---
 ### Our Ranked Club Members:
 
-- Arnold Yang (Stanford University) - WHS Alumni
+- Arnold Yang (Stanford University) - WHS Alumni - U21
   - 2026: Junior Master Rank Achieved
+    - Ranked #7 in Oregon (#212 Nationally)
   - 2025: Ranked #7 in Oregon (#238 Nationally)
   - 2024: Ranked #7 in Oregon (#215 Nationally)
-  - Total MasterPoints Earned: 6+
+  - Total MasterPoints Earned: 6.39
 
-- Christopher Willard (Oregon State University) - WHS Alumni
+- Christopher Willard (Oregon State University) - WHS Alumni - U21
   - 2025: Ranked #6 in Oregon (#217 Nationally)
   - 2024: Ranked #8 in Oregon (#215 Nationally)
   - Total MasterPoints Earned: 3.57
  
-- Arthur Yang (Grd: 12)
+- Arthur Yang (Grd: 12) - U21
   - 2026: Junior Master Rank Achieved
+    - Ranked #6 in Oregon (#170 Nationally)
   - 2025: Ranked #8 in Oregon (#344 Nationally)
   - 2023: Ranked #2 in Oregon (#261 Nationally)
   - Total MasterPoints Earned: 5.49
